@@ -9,4 +9,22 @@ html {
     width: 992px;
     height: 290px;
     margin: 80px auto;
+    padding: 90px 20px 0 20px;
 }
+/*Estilizar las teclas del piano*/
+.keys {
+    background-color: #040404;
+    width: 949px;
+    height: 180px;
+    padding-left: 2px;
+    
+}
+.key {
+    background-color: #fff;
+    position: relative;
+    width: 41px;
+    height: 175px;
+    margin: 2px;
+    float: left;
+}
+
