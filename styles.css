@@ -10,6 +10,8 @@ html {
     height: 290px;
     margin: 80px auto;
     padding: 90px 20px 0 20px;
+    /* position: relative; */ /* --> para la img del logo */
+    border-radius: 10px;
 }
 /*Estilizar las teclas del piano*/
 .keys {
